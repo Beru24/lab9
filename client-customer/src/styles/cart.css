@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; }
+.container { max-width: 800px; margin: 0 auto; padding: 20px; }
+h1 { text-align: center; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+th, td { padding: 10px; text-align: left; border: 1px solid #ddd; }
+th { background-color: #f4f4f4; }
+.total { font-weight: bold; }
+.empty-cart { text-align: center; font-size: 18px; color: #888; }
+.remove-btn { color: #ff4d4d; text-decoration: none; font-size: 14px; }
+.remove-btn:hover { color: #cc0000; }
